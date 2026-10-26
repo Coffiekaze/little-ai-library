@@ -1,5 +1,7 @@
 # Little AI Library
 
+**Live Site:** [https://coffiekaze.github.io/little-ai-library/](https://coffiekaze.github.io/little-ai-library/)
+
 An interactive beginner AI textbook built with HTML, CSS, and vanilla JavaScript. Contains 28 lessons across 7 chapters, worked examples, multiple-choice and fill-in exercises, two interactive controls, an interview notebook, saved progress, bookmarks, dark mode, and page-turn animation.
 
 ## Run locally
